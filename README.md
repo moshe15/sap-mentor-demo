@@ -2,9 +2,9 @@
 
 An agentic AI platform for SAP implementers and ABAP developers: grounded answers with citations, S/4HANA clean-core code review, and spec review against an organization's own template.
 
-[![SAP Mentor product video](poster.jpg)](mentor-sap-promo.mp4)
+[![SAP Mentor product video](poster.jpg)](https://moshe15.github.io/sap-mentor-demo/)
 
-Product video (3:31). On-screen text is in Hebrew and all data shown is fictional.
+[Watch the product video](https://moshe15.github.io/sap-mentor-demo/) (3:31). On-screen text is in Hebrew and all data shown is fictional.
 
 ## What it does
 
